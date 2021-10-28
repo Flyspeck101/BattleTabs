@@ -1,0 +1,5 @@
+# My BattleTabs Profile 
+
+If you don't already know, I like to play a game called [BattleTabs](https://battletabs.io), which is a fun multiplayer game based on the classic board game, Battleships. However, BattleTabs adds many features, including different ships which have abilities, revealing tiles (meaning you can target tiles to see if there is a ship there without actually hitting it), custom fleets, and, perhaps most importantly, sonar, which reveals how far away the nearest ship is. 
+
+I have been playing BattleTabs since late May 2021, and currently, I have about 2500 points. Additionally, my winrate is around 70% (and rising), and my maximum winstreak is 31. I'm also an active community member, contributing frequently to both the [SubReddit](https://www.reddit.com/r/BattleTabsGame/) and the [Discord Server](https://discord.gg/wNkujNWkqf). In the Discord Server, there are three ranks: Community Guardian (CG), Community Hero (CH), and Community Moderator (Mod). I am currently a Community Hero, and I'm also 6th on the MEE6 leaderboard
